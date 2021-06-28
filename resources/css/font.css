@@ -1,0 +1,42 @@
+/* =============================================================================
+     Bahnschrift Font
+   =============================================================================
+*/
+@font-face{
+    font-family: Bahnschrift;
+    src: url(../font/Bahnschrift_font/BAHNSCHRIFT.TTF);
+    src: url(../font/Bahnschrift_font/BAHNSCHRIFT\ 1.TTF);
+    src: url(../font/Bahnschrift_font/BAHNSCHRIFT\ 2.TTF);
+    src: url(../font/Bahnschrift_font/BAHNSCHRIFT\ 3.TTF);
+    src: url(../font/Bahnschrift_font/BAHNSCHRIFT\ 4.TTF);
+    src: url(../font/Bahnschrift_font/BAHNSCHRIFT\ 5.TTF);
+    src: url(../font/Bahnschrift_font/BAHNSCHRIFT\ 6.TTF);
+    src: url(../font/Bahnschrift_font/BAHNSCHRIFT\ 7.TTF);
+    src: url(../font/Bahnschrift_font/BAHNSCHRIFT\ 8.TTF);
+    src: url(../font/Bahnschrift_font/BAHNSCHRIFT\ 9.TTF);
+    src: url(../font/Bahnschrift_font/BAHNSCHRIFT\ 7.TTF);
+    src: url(../font/Bahnschrift_font/BAHNSCHRIFT\ 10.TTF);
+    src: url(../font/Bahnschrift_font/BAHNSCHRIFT\ 11.TTF);
+    src: url(../font/Bahnschrift_font/BAHNSCHRIFT\ 12.TTF);
+    src: url(../font/Bahnschrift_font/BAHNSCHRIFT\ 13.TTF);
+    src: url(../font/Bahnschrift_font/BAHNSCHRIFT\ 14.TTF);
+}
+
+/* =============================================================================
+     Segoe-UI Font
+   =============================================================================
+*/
+
+@font-face {
+    font-family:Segoe-UI;
+    src: url(../font/Segoe-UI-Font/SEGOEUI.TTF);
+}
+
+/* =============================================================================
+     Inter
+   =============================================================================
+*/
+@font-face {
+  font-family:inter;
+  src: url(../font/Inter/Inter-VariableFont_slnt\,wght.ttf);
+}
